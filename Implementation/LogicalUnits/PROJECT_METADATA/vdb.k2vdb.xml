@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VirtualDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="4.0.4.2">
+  <Name>vdb</Name>
+  <RootView />
+  <RootViewRecordType />
+  <LuLazyDataUpdate syncMethod="None" performEvery="1.00:00:00" />
+  <Tables />
+  <TablesProperties />
+  <EnrichmentsOrderList />
+  <ReferencesList />
+  <Relations />
+  <DatabaseRelations />
+  <PreVCsSqlScript />
+  <PostVCsSqlScript />
+  <Indexes />
+  <LudbProperties />
+  <DiagramGraph>
+    <Graph version="4.0.4.2" name="vdb.k2vdb.xml" lastPartID="-1" />
+  </DiagramGraph>
+</VirtualDB>
